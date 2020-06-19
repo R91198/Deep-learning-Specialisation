@@ -37,3 +37,11 @@ Week 1: Foundations of Convolutional Neural Networks\
 Week 2: Deep Convolutional Models (case studies)\
 Week 3: Object detection\
 Week 4: Special Applications (Face Recognition and Neural Style Transfer)
+
+
+### Course 5: Sequence Models
+
+
+Week 1: Recurrent Neural Networks\
+Week 2: Natural Language Processing and Word Embeddings\
+Week 3: Various Sequence to Sequence Architectures
