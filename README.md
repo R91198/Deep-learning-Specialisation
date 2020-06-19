@@ -30,7 +30,7 @@ Week 1: ML Strategy (1)\
 Week 2: ML Strategy (2)
 
 
-### Course 3: Convolutional Neural Networks
+### Course 4: Convolutional Neural Networks
 #### If you ask me, this is the best and most important course of the entire specialisation. It teaches and gives us an indepth intuition of how the things actually work in the backend of various CNN models that detect objects, or detect faces, or just a random image classification or a face verification system, this course has it all.
 
 Week 1: Foundations of Convolutional Neural Networks\
