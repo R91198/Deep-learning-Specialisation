@@ -40,7 +40,7 @@ Week 4: Special Applications (Face Recognition and Neural Style Transfer)
 
 
 ### Course 5: Sequence Models
-
+#### This was last course in this specialisation and was about how to build models for natural language, audio, and other sequence data. In this, it teaches various advanced algorithms and model architectures like Recurrent Neural Networks (RNN), and commonly used variants such as GRUs and LSTMs and be able to use these in problems such as Natural Language Processing, Speech Recognition, Machine Transaltion, Text synthesis, and many more. 
 
 Week 1: Recurrent Neural Networks\
 Week 2: Natural Language Processing and Word Embeddings\
