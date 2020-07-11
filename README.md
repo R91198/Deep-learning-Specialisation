@@ -5,7 +5,7 @@
 
 ![](images/logo.png)
 
-
+https://www.coursera.org/account/accomplishments/specialization/C32MJPSDFRMA
 ### Course 1: Neural Networks and Deep Learning
 #### This first course of the specialisation was all about getting into Deep Learning from scratch. The way Andrew Ng teaches you the concepts and the maths behind all the forward and backward propagation and how the matrices work in each hidden layer of the Neural Networks is exceptional. Within a few days, from being a neophyte in Deep learning, I felt like my conceptual and applied knowledge regarding the same was being enhanced every day.
 
